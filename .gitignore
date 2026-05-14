@@ -38,13 +38,6 @@ build/
 ### Mac OS ###
 .DS_Store
 
-# IntelliJ
 .idea/
 *.iml
-
-# Maven
 target/
-
-# OS
-.DS_Store
-Thumbs.db
